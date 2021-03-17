@@ -1,0 +1,15 @@
+RTC.c:39:6:RTC_BAK_SetRegister	16	static
+RTC.c:49:6:RTC_Init	8	static
+RTC.c:104:6:RTC_Set_Calendar_Date	72	static,ignoring_inline_asm
+RTC.c:111:6:RTC_Set_Time	48	static,ignoring_inline_asm
+RTC.c:118:6:RTC_Clock_Init	4	static
+RTC.c:155:6:RTC_Disable_Write_Protection	4	static
+RTC.c:160:6:RTC_Enable_Write_Protection	4	static
+RTC.c:164:10:RTC_TIME_GetHour	24	static,ignoring_inline_asm
+RTC.c:168:10:RTC_TIME_GetMinute	24	static,ignoring_inline_asm
+RTC.c:172:10:RTC_TIME_GetSecond	4	static
+RTC.c:176:10:RTC_DATE_GetMonth	24	static,ignoring_inline_asm
+RTC.c:180:10:RTC_DATE_GetDay	24	static,ignoring_inline_asm
+RTC.c:184:10:RTC_DATE_GetYear	24	static,ignoring_inline_asm
+RTC.c:188:10:RTC_DATE_GetWeekDay	24	static,ignoring_inline_asm
+RTC.c:192:6:Get_RTC_Calendar	40	static

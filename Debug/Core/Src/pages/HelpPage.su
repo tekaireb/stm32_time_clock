@@ -1,0 +1,18 @@
+Page.hpp:17:2:Page::Page()	16	static
+Page.hpp:18:10:Page::~Page()	16	static
+Page.hpp:18:10:virtual Page::~Page()	16	static
+HelpPage.cpp:12:1:HelpPage::HelpPage(char*)	16	static
+HelpPage.cpp:17:6:virtual void HelpPage::make_active(Employee*)	16	static
+HelpPage.cpp:22:6:virtual void HelpPage::render()	40	static
+HelpPage.cpp:54:6:virtual void HelpPage::up_button_handler()	16	static
+HelpPage.cpp:56:6:virtual void HelpPage::down_button_handler()	16	static
+HelpPage.cpp:58:6:virtual void HelpPage::left_button_handler()	16	static
+HelpPage.cpp:60:6:virtual void HelpPage::right_button_handler()	16	static
+HelpPage.cpp:62:6:virtual void HelpPage::center_button_handler()	16	static
+HelpPage.cpp:66:6:virtual void HelpPage::increment_selection()	16	static
+HelpPage.cpp:67:6:virtual void HelpPage::decrement_selection()	16	static
+HelpPage.cpp:68:6:virtual void HelpPage::make_selection()	16	static
+HelpPage.cpp:69:6:void HelpPage::clear_highlighted_selection()	16	static
+HelpPage.cpp:70:6:void HelpPage::render_highlighted_selection()	16	static
+HelpPage.hpp:14:7:HelpPage::~HelpPage()	16	static
+HelpPage.hpp:14:7:virtual HelpPage::~HelpPage()	16	static

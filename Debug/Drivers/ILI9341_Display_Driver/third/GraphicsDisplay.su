@@ -1,0 +1,10 @@
+GraphicsDisplay.cpp:107:1:GraphicsDisplay::GraphicsDisplay(const char*)	16	static
+GraphicsDisplay.cpp:112:6:virtual void GraphicsDisplay::character(int, int, int)	40	static
+GraphicsDisplay.cpp:116:6:virtual void GraphicsDisplay::window(unsigned int, unsigned int, unsigned int, unsigned int)	24	static
+GraphicsDisplay.cpp:127:6:virtual void GraphicsDisplay::putp(int)	24	static
+GraphicsDisplay.cpp:141:6:virtual void GraphicsDisplay::fill(int, int, int, int, int)	48	static
+GraphicsDisplay.cpp:148:6:virtual void GraphicsDisplay::cls()	32	static
+GraphicsDisplay.cpp:152:6:virtual void GraphicsDisplay::blit(int, int, int, int, const int*)	48	static
+GraphicsDisplay.cpp:159:6:virtual void GraphicsDisplay::blitbit(int, int, int, int, const char*)	56	static
+GraphicsDisplay.cpp:169:5:virtual int GraphicsDisplay::columns()	16	static
+GraphicsDisplay.cpp:173:5:virtual int GraphicsDisplay::rows()	16	static

@@ -1,0 +1,4 @@
+main.cpp:21:6:void get_time(time_t&)	64	static
+main.cpp:35:5:int main()	24	static,ignoring_inline_asm
+main.cpp:115:6:void SystemClock_Config()	104	static
+main.cpp:174:6:void Error_Handler()	8	static

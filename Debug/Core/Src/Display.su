@@ -1,0 +1,2 @@
+Display.cpp:11:1:Display::Display(PinName, PinName, PinName, PinName, PinName, PinName, const char*)	96	static
+Display.cpp:15:6:void Display::print_text(char*, int, int, unsigned char*)	56	static

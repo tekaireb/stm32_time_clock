@@ -1,0 +1,8 @@
+core_cm4.h:1679:22:void __NVIC_EnableIRQ(IRQn_Type)	16	static,ignoring_inline_asm
+core_cm4.h:1809:22:void __NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+EXTI.cpp:13:6:void EXTI_Init()	8	static
+EXTI.cpp:76:6:void EXTI0_IRQHandler()	8	static
+EXTI.cpp:83:6:void EXTI1_IRQHandler()	8	static
+EXTI.cpp:90:6:void EXTI2_IRQHandler()	8	static
+EXTI.cpp:97:6:void EXTI3_IRQHandler()	8	static
+EXTI.cpp:104:6:void EXTI9_5_IRQHandler()	8	static

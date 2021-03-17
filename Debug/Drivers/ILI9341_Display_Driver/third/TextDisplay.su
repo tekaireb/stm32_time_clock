@@ -1,0 +1,10 @@
+mbed_stream.h:13:5:mbed::Stream::Stream(const char*)	16	static
+mbed_stream.h:14:9:int mbed::Stream::putc(int)	16	static
+TextDisplay.cpp:8:1:TextDisplay::TextDisplay(const char*)	16	static
+TextDisplay.cpp:19:5:virtual int TextDisplay::_putc(int)	24	static
+TextDisplay.cpp:41:6:virtual void TextDisplay::cls()	32	static
+TextDisplay.cpp:48:6:virtual void TextDisplay::locate(int, int)	24	static
+TextDisplay.cpp:53:5:virtual int TextDisplay::_getc()	16	static
+TextDisplay.cpp:57:6:virtual void TextDisplay::foreground(uint16_t)	16	static
+TextDisplay.cpp:61:6:virtual void TextDisplay::background(uint16_t)	16	static
+TextDisplay.cpp:65:6:virtual bool TextDisplay::claim(FILE*)	24	static

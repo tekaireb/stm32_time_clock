@@ -1,0 +1,38 @@
+mbed_io.hpp:30:2:DigitalOut::DigitalOut(const PinName&)	16	static
+mbed_io.hpp:35:7:void DigitalOut::operator=(int)	16	static
+mbed_io.hpp:51:2:SPI::SPI(const PinName&, const PinName&, const PinName&, const PinName&)	24	static
+mbed_io.hpp:62:7:void SPI::format(int, int)	24	static
+mbed_io.hpp:69:7:void SPI::frequency(int)	16	static
+mbed_io.hpp:73:6:int SPI::write(int)	48	static,ignoring_inline_asm
+mbed_io.hpp:96:7:void SPI::tx_buff(const uint16_t*, unsigned int)	40	static,ignoring_inline_asm
+wait_api.h:5:20:void wait_us(unsigned int)	32	static
+wait_api.h:21:20:void wait_ms(unsigned int)	16	static
+SPI_TFT_ILI9341.cpp:38:1:SPI_TFT_ILI9341::SPI_TFT_ILI9341(PinName, PinName, PinName, PinName, PinName, PinName, const char*)	32	static
+SPI_TFT_ILI9341.cpp:49:5:virtual int SPI_TFT_ILI9341::width()	16	static
+SPI_TFT_ILI9341.cpp:56:5:virtual int SPI_TFT_ILI9341::height()	16	static
+SPI_TFT_ILI9341.cpp:63:6:void SPI_TFT_ILI9341::set_orientation(unsigned int)	16	static
+SPI_TFT_ILI9341.cpp:88:6:void SPI_TFT_ILI9341::wr_cmd(unsigned char)	16	static
+SPI_TFT_ILI9341.cpp:98:6:void SPI_TFT_ILI9341::wr_dat(unsigned char)	16	static
+SPI_TFT_ILI9341.cpp:107:6:char SPI_TFT_ILI9341::rd_byte(unsigned char)	24	static
+SPI_TFT_ILI9341.cpp:120:5:int SPI_TFT_ILI9341::rd_32(unsigned char)	24	static
+SPI_TFT_ILI9341.cpp:144:6:int SPI_TFT_ILI9341::Read_ID()	24	static
+SPI_TFT_ILI9341.cpp:156:6:void SPI_TFT_ILI9341::tft_reset()	16	static
+SPI_TFT_ILI9341.cpp:313:6:virtual void SPI_TFT_ILI9341::pixel(int, int, int)	24	static
+SPI_TFT_ILI9341.cpp:336:6:virtual void SPI_TFT_ILI9341::window(unsigned int, unsigned int, unsigned int, unsigned int)	24	static
+SPI_TFT_ILI9341.cpp:354:6:void SPI_TFT_ILI9341::WindowMax()	32	static
+SPI_TFT_ILI9341.cpp:361:6:virtual void SPI_TFT_ILI9341::cls()	32	static
+SPI_TFT_ILI9341.cpp:368:6:void SPI_TFT_ILI9341::circle(int, int, int, int)	48	static
+SPI_TFT_ILI9341.cpp:387:6:void SPI_TFT_ILI9341::fillcircle(int, int, int, int)	48	static
+SPI_TFT_ILI9341.cpp:403:6:void SPI_TFT_ILI9341::hline(int, int, int, int)	48	static
+SPI_TFT_ILI9341.cpp:428:6:void SPI_TFT_ILI9341::vline(int, int, int, int)	48	static
+SPI_TFT_ILI9341.cpp:453:6:void SPI_TFT_ILI9341::line(int, int, int, int, int)	72	static
+SPI_TFT_ILI9341.cpp:525:6:void SPI_TFT_ILI9341::rect(int, int, int, int, int)	32	static
+SPI_TFT_ILI9341.cpp:545:6:void SPI_TFT_ILI9341::fillrect(int, int, int, int, int)	56	static
+SPI_TFT_ILI9341.cpp:571:6:virtual void SPI_TFT_ILI9341::locate(int, int)	24	static
+SPI_TFT_ILI9341.cpp:579:5:virtual int SPI_TFT_ILI9341::columns()	16	static
+SPI_TFT_ILI9341.cpp:586:5:virtual int SPI_TFT_ILI9341::rows()	16	static
+SPI_TFT_ILI9341.cpp:593:5:virtual int SPI_TFT_ILI9341::_putc(int)	24	static
+SPI_TFT_ILI9341.cpp:608:6:virtual void SPI_TFT_ILI9341::character(int, int, int)	80	static
+SPI_TFT_ILI9341.cpp:668:6:void SPI_TFT_ILI9341::set_font(unsigned char*)	16	static
+SPI_TFT_ILI9341.cpp:675:6:void SPI_TFT_ILI9341::Bitmap(unsigned int, unsigned int, unsigned int, unsigned int, unsigned char*)	56	static
+SPI_TFT_ILI9341.cpp:701:5:int SPI_TFT_ILI9341::BMP_16(unsigned int, unsigned int, const char*)	192	static

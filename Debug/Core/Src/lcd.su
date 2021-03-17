@@ -1,0 +1,9 @@
+mbed_io.hpp:8:2:PinName::PinName(GPIO_TypeDef*, unsigned int, void*)	24	static
+mbed_io_ex.hpp:7:20:void pin_init_out(PinName&)	40	static
+mbed_io_ex.hpp:21:20:void pin_init_af(PinName&, uint8_t)	40	static
+mbed_io_ex.hpp:36:20:void spi_handle_init(SPI_HandleTypeDef*, uint8_t, uint8_t, uint32_t)	24	static
+lcd.cpp:26:7:Page* get_page(char*)	24	static
+lcd.cpp:33:6:void add_page(Page*)	16	static
+lcd.cpp:37:6:void lcd_start()	168	static
+lcd.cpp:104:1:void __static_initialization_and_destruction_0(int, int)	16	static
+lcd.cpp:104:1:cpp)	8	static

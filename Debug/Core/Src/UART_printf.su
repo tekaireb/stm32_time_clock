@@ -1,0 +1,2 @@
+stdio.h:214:5:fputc	24	static
+stdio.h:212:5:fgetc	24	static

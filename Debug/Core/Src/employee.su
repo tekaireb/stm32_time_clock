@@ -1,0 +1,9 @@
+employee.c:6:5:_get_employee_index	24	static
+employee.c:13:11:get_employee	16	static
+employee.c:17:6:add_event	80	static
+employee.c:27:6:clear_events	24	static
+employee.c:33:6:add_employee	40	static
+employee.c:46:6:remove_employee	24	static
+employee.c:56:7:calculate_hours	40	static
+employee.c:64:7:calculate_pay	24	static
+employee.c:68:6:add_demo_data	40	static

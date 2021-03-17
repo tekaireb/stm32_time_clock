@@ -1,0 +1,3 @@
+mbed_stream.cpp:7:6:void mbed::mbed_set_unbuffered_stream(FILE*)	16	static
+mbed_stream.cpp:11:5:int mbed::mbed_getc(FILE*)	16	static
+mbed_stream.cpp:16:7:char* mbed::mbed_gets(char*, int, FILE*)	24	static
