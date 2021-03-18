@@ -1,4 +1,4 @@
-# Time Clcok
+# Time Clock
 <b>STM32-based Bluetooth time clock</b>
 
 ## Description
